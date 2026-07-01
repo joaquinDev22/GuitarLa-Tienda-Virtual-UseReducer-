@@ -1,6 +1,5 @@
 # GuitarLa-Tienda-Virtual-UseReducer
 
-# Descripción Detallada
 Esta versión del e-commerce GuitarLA traslada la gestión lógica de la cesta de compras a un reductor formal (cartReducer). A través del despacho de acciones estructuradas, la aplicación manipula de manera determinista el listado de productos, controlando de manera segura la suma, resta y vaciado de productos. Representa un ejemplo avanzado de separación de responsabilidades y modularidad técnica, ideal para proyectos que requieran un mayor control en las reglas comerciales asociadas a la gestión de inventarios virtuales y flujos transaccionales.
 
 # Características Claves
